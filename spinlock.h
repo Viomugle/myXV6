@@ -1,3 +1,4 @@
+#include <stdint.h>
 struct spinlock
 {
     unit locked;
