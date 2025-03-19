@@ -18,5 +18,5 @@ add_executable(MyXV6 main.cpp
         elf.h
         proc.c
         proc.h
-        proc.c
+
 )
