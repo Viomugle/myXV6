@@ -16,4 +16,7 @@ add_executable(MyXV6 main.cpp
         types.h
         x86.h
         elf.h
+        proc.c
+        proc.h
+        proc.c
 )
